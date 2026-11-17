@@ -6,3 +6,18 @@
 .lang-btn.active{background:var(--purple);color:white}
 .lang-btn:focus-visible{outline:2px solid var(--purple);outline-offset:3px}
 @media(max-width:850px){.language-switch{margin-left:auto;margin-right:14px}}
+
+.visual-ml {
+    background: linear-gradient(
+        135deg,
+        #182848 0%,
+        #4b3f91 55%,
+        #8b5cf6 100%
+    );
+    color: #ffffff;
+}
+
+.visual-ml .visual-mark {
+    color: #ddd6fe;
+}
+
