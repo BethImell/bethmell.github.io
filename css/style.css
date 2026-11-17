@@ -21,3 +21,60 @@
     color: #ddd6fe;
 }
 
+/* ==========================================
+   CLOUD DEPLOYMENT
+========================================== */
+
+.visual-cloud {
+    background: linear-gradient(
+        120deg,
+        #14263d 0%,
+        #304b83 50%,
+        #7663c6 100%
+    );
+}
+
+.visual-cloud .visual-mark {
+    color: #c4b5fd;
+}
+
+
+/* ==========================================
+   HOTEL ANALYTICS
+========================================== */
+
+.visual-hotel {
+    background: linear-gradient(
+        120deg,
+        #16324f 0%,
+        #246a73 55%,
+        #65b8a6 100%
+    );
+}
+
+.visual-hotel .visual-mark {
+    color: #d1fae5;
+}
+
+
+/* ==========================================
+   PROJECT DETAILS
+========================================== */
+
+.project-details {
+    margin: 20px 0;
+    padding-left: 20px;
+    list-style-type: disc;
+}
+
+.project-details li {
+    margin-bottom: 12px;
+    line-height: 1.7;
+    font-size: 0.9rem;
+    color: var(--muted);
+}
+
+.project-details li::marker {
+    color: var(--purple);
+}
+
