@@ -371,7 +371,17 @@ const translations = {
 "cloud6": {
     "fr": "Acquisition d'une expérience pratique en orchestration de conteneurs et en principes fondamentaux des applications distribuées.",
     "en": "Gained practical experience with container orchestration and distributed application fundamentals."
+},
+
+"educ1": {
+    "fr": "Formation en programmation et développement d’applications mobiles, axée sur la conception d’interfaces utilisateur, la programmation orientée objet, la gestion des bases de données, le développement d’applications web et mobiles, ainsi que les tests et la maintenance logicielle.",
+    "en": "Training in programming and mobile application development, focusing on user interface design, object-oriented programming, database management, web and mobile application development, software testing, and maintenance."
+},
+"educ2": {
+    "fr": "Formation multidisciplinaire axée sur le leadership, la gestion de projets, la planification stratégique, la prise de décision, l’optimisation des processus organisationnels, la résolution de problèmes complexes, la communication professionnelle et la coordination d’équipes.",
+    "en": "Multidisciplinary program focused on leadership, project management, strategic planning, decision-making, organizational process optimization, complex problem-solving, professional communication, and team coordination."
 }
+
 
 };
 const interfaceLabels = {
