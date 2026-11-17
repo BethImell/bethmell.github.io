@@ -260,7 +260,45 @@ const translations = {
 "fraud5": {
     "fr": "Utilisation des branches Git et de GitHub pour organiser les tâches, gérer les modifications et collaborer en équipe.",
     "en": "Used Git branches and GitHub to organize development tasks, manage changes, and support team collaboration."
+},
+  
+"hotel_category": {
+    "fr": "ANALYSE DE DONNÉES · R · STATISTIQUES",
+    "en": "DATA ANALYTICS · R · STATISTICS"
+},
+"hotel_title": {
+    "fr": "Analyse exploratoire des réservations hôtelières",
+    "en": "Hotel Booking Demand – Exploratory Data Analysis"
+},
+"hotel_description": {
+    "fr": "Analyse de 119 390 réservations hôtelières à l'aide de R pour étudier les tendances de réservation, les annulations et les caractéristiques des séjours.",
+    "en": "Analyzed 119,390 hotel bookings using R to explore booking trends, cancellations, and stay characteristics."
+},
+"hotel1": {
+    "fr": "Réalisation d'une analyse exploratoire d'un jeu de données comprenant 119 390 réservations et 32 variables.",
+    "en": "Conducted exploratory data analysis on a dataset containing 119,390 hotel bookings and 32 variables."
+},
+"hotel2": {
+    "fr": "Identification et analyse des valeurs manquantes, des doublons, des types de variables et des valeurs aberrantes.",
+    "en": "Identified and investigated missing values, duplicate records, variable types, and outliers."
+},
+"hotel3": {
+    "fr": "Comparaison de différentes stratégies de traitement des valeurs manquantes, notamment la suppression, l'imputation et la création de catégories distinctes.",
+    "en": "Compared missing-data handling strategies, including deletion, imputation, and separate missing-value categories."
+},
+"hotel4": {
+    "fr": "Analyse statistique des délais de réservation, des tarifs journaliers, de la durée des séjours et des annulations antérieures.",
+    "en": "Performed statistical analysis of booking lead times, average daily rates, stay durations, and previous cancellations."
+},
+"hotel5": {
+    "fr": "Création de visualisations statistiques pour explorer les distributions, les tendances et les relations entre les variables.",
+    "en": "Created statistical visualizations to explore distributions, trends, and relationships between variables."
+},
+"hotel6": {
+    "fr": "Production d'un rapport reproductible avec R Markdown, présentant la méthodologie, les résultats et les observations de l'analyse.",
+    "en": "Produced a reproducible R Markdown report documenting the methodology, analytical findings, and key observations."
 }
+
 
 };
 const interfaceLabels = {
