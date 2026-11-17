@@ -334,9 +334,44 @@ const translations = {
 "ml6": {
     "fr": "Organisation de fonctions réutilisables de prétraitement et d'évaluation pour assurer la cohérence des expérimentations.",
     "en": "Organized reusable preprocessing and evaluation functions to support consistent experimentation."
+},
+  
+"cloud_category": {
+    "fr": "CLOUD · DEVOPS · CONTENEURISATION",
+    "en": "CLOUD · DEVOPS · CONTAINERIZATION"
+},
+"cloud_title": {
+    "fr": "Application web conteneurisée et déploiement cloud",
+    "en": "Containerized Web Application & Cloud Deployment"
+},
+"cloud_description": {
+    "fr": "Développement et déploiement d'une application web intégrant Flask, MongoDB, Docker et Kubernetes.",
+    "en": "Development and deployment of a web application integrating Flask, MongoDB, Docker, and Kubernetes."
+},
+"cloud1": {
+    "fr": "Développement et configuration d'une application web Flask connectée à une base de données MongoDB.",
+    "en": "Developed and configured a Flask web application connected to a MongoDB database."
+},
+"cloud2": {
+    "fr": "Conteneurisation des composants de l'application à l'aide de Docker et Docker Compose.",
+    "en": "Containerized application components using Docker and Docker Compose."
+},
+"cloud3": {
+    "fr": "Configuration des Deployments et Services Kubernetes pour exécuter et exposer les composants applicatifs.",
+    "en": "Configured Kubernetes Deployments and Services to run and expose application workloads."
+},
+"cloud4": {
+    "fr": "Mise en pratique de la mise à l'échelle de l'application à l'aide de plusieurs réplicas Kubernetes.",
+    "en": "Practiced application scaling using multiple Kubernetes replicas."
+},
+"cloud5": {
+    "fr": "Gestion des variables d'environnement, de la connectivité aux bases de données et des workflows de registre de conteneurs cloud.",
+    "en": "Worked with environment variables, database connectivity, and cloud container registry workflows."
+},
+"cloud6": {
+    "fr": "Acquisition d'une expérience pratique en orchestration de conteneurs et en principes fondamentaux des applications distribuées.",
+    "en": "Gained practical experience with container orchestration and distributed application fundamentals."
 }
-
-
 
 };
 const interfaceLabels = {
