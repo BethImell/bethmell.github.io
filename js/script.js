@@ -380,6 +380,11 @@ const translations = {
 "educ2": {
     "fr": "Formation multidisciplinaire axée sur le leadership, la gestion de projets, la planification stratégique, la prise de décision, l’optimisation des processus organisationnels, la résolution de problèmes complexes, la communication professionnelle et la coordination d’équipes.",
     "en": "Multidisciplinary program focused on leadership, project management, strategic planning, decision-making, organizational process optimization, complex problem-solving, professional communication, and team coordination."
+},
+  
+"contact_description": {
+    "fr": "Passionnée par l’exploitation des données et leur potentiel à générer des solutions concrètes, je souhaite mettre mes compétences au service de projets innovants et à fort impact. Je suis à la recherche d’opportunités de stage et de collaborations me permettant de relever de nouveaux défis, de contribuer à des initiatives ambitieuses et de continuer à développer mon expertise.",
+    "en": "Passionate about leveraging data to drive meaningful insights and real-world solutions, I am eager to contribute my skills to innovative, high-impact projects. I am seeking internship opportunities and collaborations where I can tackle new challenges, contribute to ambitious initiatives, and further develop my expertise."
 }
 
 
