@@ -297,7 +297,45 @@ const translations = {
 "hotel6": {
     "fr": "Production d'un rapport reproductible avec R Markdown, présentant la méthodologie, les résultats et les observations de l'analyse.",
     "en": "Produced a reproducible R Markdown report documenting the methodology, analytical findings, and key observations."
+},
+  
+"ml_category": {
+    "fr": "MACHINE LEARNING · CLASSIFICATION",
+    "en": "MACHINE LEARNING · CLASSIFICATION"
+},
+"ml_title": {
+    "fr": "Pipeline de classification et d'évaluation ML",
+    "en": "Machine Learning Classification & Evaluation Pipeline"
+},
+"ml_description": {
+    "fr": "Développement de pipelines de Machine Learning pour la prédiction, la classification et l'évaluation de modèles supervisés.",
+    "en": "Development of machine learning pipelines for prediction, classification, and supervised model evaluation."
+},
+"ml1": {
+    "fr": "Développement de workflows de Machine Learning pour la prédiction du désabonnement client, l'analyse de l'attrition des employés et la classification du cancer du sein.",
+    "en": "Developed machine learning workflows for customer churn prediction, employee attrition analysis, and breast cancer classification."
+},
+"ml2": {
+    "fr": "Mise en œuvre du prétraitement des données, de l'encodage des variables catégorielles, de la préparation des caractéristiques et de la séparation entraînement/test.",
+    "en": "Implemented data preprocessing, categorical encoding, feature preparation, and train/test splitting."
+},
+"ml3": {
+    "fr": "Entraînement et évaluation de modèles de classification utilisant la régression logistique et d'autres algorithmes d'apprentissage supervisé.",
+    "en": "Trained and evaluated classification models using logistic regression and other supervised learning algorithms."
+},
+"ml4": {
+    "fr": "Évaluation des performances à l'aide de la précision, du rappel, du score F1, de la ROC-AUC et des matrices de confusion.",
+    "en": "Assessed model performance using precision, recall, F1-score, ROC-AUC, and confusion matrices."
+},
+"ml5": {
+    "fr": "Analyse du déséquilibre des classes, de la fiabilité des modèles et des risques de fuite de données afin d'améliorer l'interprétation des résultats.",
+    "en": "Investigated class imbalance, model reliability, and potential data leakage to improve the interpretation of results."
+},
+"ml6": {
+    "fr": "Organisation de fonctions réutilisables de prétraitement et d'évaluation pour assurer la cohérence des expérimentations.",
+    "en": "Organized reusable preprocessing and evaluation functions to support consistent experimentation."
 }
+
 
 
 };
