@@ -23,12 +23,20 @@ navLinks.querySelectorAll('a').forEach(link => {
  document.querySelector('#year').textContent = new Date().getFullYear();
 
 // Liens à personnaliser : ne pas ouvrir de fausses destinations
- document.querySelectorAll('.placeholder-link').forEach(link => {
-   link.addEventListener('click', event => {
-     event.preventDefault();
-     alert(`Personnalise d'abord le lien ${link.dataset.placeholder} dans index.html.`);
-   });
- });
+document.querySelectorAll("a[href]").forEach(link => {
+    link.addEventListener("click", function(event) {
+        const href = this.getAttribute("href");
+
+        if (
+            !href ||
+            href === "#" ||
+            href.includes("VOTRE_LIEN")
+        ) {
+            event.preventDefault();
+            alert("Personnalise d'abord ton lien dans HTML");
+        }
+    });
+});
 
 
 // Traduction locale, sans service externe.
