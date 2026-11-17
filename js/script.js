@@ -240,7 +240,28 @@ const translations = {
   "t50": {
     "fr": "ANALYSE PRÉDICTIVE",
     "en": "PREDICTIVE ANALYTICS"
-  }
+},
+"fraud1": {
+    "fr": "Participation à un projet collaboratif de détection de fraude portant sur plus de 13 millions de transactions financières.",
+    "en": "Collaborated on a team-based fraud detection project involving over 13 million financial transactions."
+},
+"fraud2": {
+    "fr": "Analyse des transactions, des informations clients et des cartes bancaires pour identifier les problèmes de qualité et les relations entre les données.",
+    "en": "Analyzed transaction records, customer information, and payment card datasets to identify data quality issues and relationships."
+},
+"fraud3": {
+    "fr": "Étude des valeurs manquantes, des identifiants dupliqués, des types de données incohérents et des anomalies transactionnelles.",
+    "en": "Investigated missing values, duplicate identifiers, inconsistent data types, and transaction anomalies."
+},
+"fraud4": {
+    "fr": "Analyse du fort déséquilibre des classes : environ 0,15 % des transactions sont frauduleuses.",
+    "en": "Analyzed severe class imbalance, with fraudulent transactions representing approximately 0.15% of the dataset."
+},
+"fraud5": {
+    "fr": "Utilisation des branches Git et de GitHub pour organiser les tâches, gérer les modifications et collaborer en équipe.",
+    "en": "Used Git branches and GitHub to organize development tasks, manage changes, and support team collaboration."
+}
+
 };
 const interfaceLabels = {
   fr: { menuOpen: 'Ouvrir le menu', menuClose: 'Fermer le menu', notice: 'Personnalise d’abord le lien' },
